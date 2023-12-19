@@ -1,0 +1,23 @@
+{
+  "name": "bymyown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reymarte07/Bymyown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reymarte07/Bymyown/issues"
+  },
+  "homepage": "https://github.com/reymarte07/Bymyown#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
